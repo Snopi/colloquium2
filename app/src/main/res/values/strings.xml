@@ -4,5 +4,7 @@
     <string name="app_name">Colloquium2</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+    <string name="delete_recort">delete</string>
+    <string name="rename">rename</string>
+    <string name="vote">vote+</string>
 </resources>
